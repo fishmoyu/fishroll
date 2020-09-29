@@ -27,10 +27,10 @@ OPT选项说明：<br/>
 示例：<br/>
 
 \<div class="ledmianbody layui-col-xs12"><br/>
-	<div \class="direction"><br/>
-		这是滚动区域<br/>2222<br/>
-	</div><br/>
-</div><br/>
+	\<div class="direction"><br/>
+		\这是滚动区域<br/>2222<br/>
+	\</div><br/>
+\</div><br/>
 
  OPT选项在初始化NEW类时，必须要先指定滚动元素的父元素，如ledmianbody，此元素内必须包裹一个.direction元素作为滚动元素的标识。<br/>
  选项：<br/>
