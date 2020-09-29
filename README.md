@@ -26,11 +26,11 @@ var g1=new rolling({<br/>
 OPT选项说明：<br/>
 示例：<br/>
 /*
-<div class="ledmianbody layui-col-xs12"><br/>
-	<div class="direction"><br/>
+\<div \class="ledmianbody layui-col-xs12"><br/>
+	<div \class="direction"><br/>
 		这是滚动区域<br/>2222<br/>
 	</div><br/>
-</div><br/>
+<\/div><br/>
 </code><br/>
 */
 <br/> 
